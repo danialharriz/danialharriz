@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there, my name is Danial Harriz👋
+
+#### **Background 🧔**
+
+- My name is Danial Harriz but I go by Harriz (most of the time). My hometown is Kota Kinabalu, Sabah and I'm 20 years old. I'm currently enrolled as a first year Data Engineering student in University of Technology Malaysia. Although still new to computer science, I do find this course rather enjoyable and definitely something that I want to make a career out of.
 
 
-**danialharriz/danialharriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### **Languages and Skills ✍🏻**
 
-Here are some ideas to get you started:
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+#### **Education 🎒**
+  - BSc of Computer Science (Data Engineering), University Technology Malaysia, 2022 - Present
+  
+#### **Contact 📱**
+  - You can contact me via my LinkedIn or through my email : danialharriz@graduate.utm.my
+
+
+
+
 

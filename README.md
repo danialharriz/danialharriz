@@ -20,3 +20,11 @@
 
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danialharriz&show_icons=true&locale=en" alt="danialharriz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danialharriz&" alt="danialharriz" /></p>
+Footer
+© 2023 GitHub, Inc.
+
+
+

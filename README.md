@@ -14,7 +14,7 @@
 
   
 #### **Education 🎒**
-  - BSc of Computer Science (Data Engineering), University Technology Malaysia, 2022 - Present
+  - BSc of Computer Science (Data Engineering), University Technologi Malaysia, 2022 - Present
   
 #### **Contact 📱**
   - You can contact me via my LinkedIn or through my email : danialharriz@graduate.utm.my

@@ -2,7 +2,7 @@
 
 #### **Background 🧔**
 
-- My name is Danial Harriz but I go by Harriz (most of the time). My hometown is Kota Kinabalu, Sabah and I'm 20 years old. I'm currently enrolled as a first year Data Engineering student in University of Technology Malaysia. Although still new to computer science, I do find this course rather enjoyable and definitely something that I want to make a career out of.
+- My name is Danial Harriz but I go by Harriz (most of the time). My hometown is Kota Kinabalu, Sabah and I'm 20 years old. I'm currently enrolled as a second year Data Engineering student in University of Technology Malaysia. Although still new to computer science, I do find this course rather enjoyable and definitely something that I want to make a career out of.
 
 
 #### **Languages and Skills ✍🏻**

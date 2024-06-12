@@ -17,7 +17,7 @@
   - BSc of Computer Science (Data Engineering), Universiti Teknologi Malaysia, 2022 - Present
   
 #### **Contact 📱**
-  - You can contact me via my LinkedIn or through my email : danialharriz@graduate.utm.my
+  - You can contact me via my LinkedIn or through my email : danialharriz@graduate.utm.my / danial.harriz360@gmail.com
 
 
 

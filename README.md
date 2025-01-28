@@ -2,7 +2,7 @@
 
 #### **Background 🧔**
 
-- Hi there! I'm Danial Harriz, but most people know me as Harriz. I'm a 22-year-old Data Engineering student currently in my third year at Universiti Teknologi Malaysia (UTM).
+Hi there! I'm Danial Harriz, but most people know me as Harriz. I'm a 22-year-old Data Engineering student currently in my third year at Universiti Teknologi Malaysia (UTM).
 
 Hailing from the beautiful city of Kota Kinabalu, Sabah, I have a strong passion for data, machine learning, and all things tech. I enjoy solving problems, building innovative solutions, and learning new technologies to grow as a future Data Analytics professional.
 

@@ -2,7 +2,11 @@
 
 #### **Background 🧔**
 
-- My name is Danial Harriz but I go by Harriz (most of the time). My hometown is Kota Kinabalu, Sabah and I'm 21 years old. I'm currently enrolled as a third year Data Engineering student in University of Technology Malaysia. Although still new to computer science, I do find this course rather enjoyable and definitely something that I want to make a career out of.
+- Hi there! I'm Danial Harriz, but most people know me as Harriz. I'm a 22-year-old Data Engineering student currently in my third year at Universiti Teknologi Malaysia (UTM).
+
+Hailing from the beautiful city of Kota Kinabalu, Sabah, I have a strong passion for data, machine learning, and all things tech. I enjoy solving problems, building innovative solutions, and learning new technologies to grow as a future Data Analytics professional.
+
+Feel free to explore my repositories and connect with me. Let's collaborate and bring exciting ideas to life! 
 
 
 

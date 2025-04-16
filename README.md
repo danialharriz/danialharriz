@@ -2,11 +2,11 @@
 
 #### **Background 🧔**
 
-Hi there! I'm Danial Harriz, but most people know me as Harriz. I'm a 22-year-old Data Engineering student currently in my third year at Universiti Teknologi Malaysia (UTM).
+I am a third-year Computer Science student at Universiti Teknologi Malaysia, majoring in Data Engineering. My passion lies in exploring the limitless potential of technology, with a particular focus on data, machine learning, and analytics.
 
-Hailing from the beautiful city of Kota Kinabalu, Sabah, I have a strong passion for data, machine learning, and all things tech. I enjoy solving problems, building innovative solutions, and learning new technologies to grow as a future Data Analytics professional.
+Throughout my university years, I have been honing my technical and analytical skills while actively engaging in university events, which has equipped me with excellent communication and social skills. These experiences have fueled my ambition to build a career in the tech industry, particularly in Data Science, where I aim to drive data-driven solutions and insights.
 
-Feel free to explore my repositories and connect with me. Let's collaborate and bring exciting ideas to life! 
+I’m always eager to connect with like-minded individuals, learn about the latest trends in technology, and contribute to innovative projects.
 
 
 
@@ -21,7 +21,9 @@ Feel free to explore my repositories and connect with me. Let's collaborate and 
   
 #### **Education 🎒**
   - BSc of Computer Science (Data Engineering), Universiti Teknologi Malaysia, 2022 - Present
-  
+  - Foundation in Engineering, Universiti Teknologi MARA, 2021 - 2022
+  - SM Lok Yuk Likas, Kota Kinabalu (CF), 2016 - 2020
+
 #### **Contact 📱**
   - You can contact me via my LinkedIn or through my email : danialharriz@graduate.utm.my / danial.harriz360@gmail.com
 

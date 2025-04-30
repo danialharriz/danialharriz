@@ -22,8 +22,7 @@ I’m always eager to connect with like-minded individuals, learn about the late
 #### **Education 🎒**
   - BSc of Computer Science (Data Engineering), Universiti Teknologi Malaysia, 2022 - Present
   - Foundation in Engineering, Universiti Teknologi MARA, 2021 - 2022
-  - SM Lok Yuk Likas, Kota Kinabalu (CF), 2016 - 2020
-
+ 
 #### **Contact 📱**
   - You can contact me via my LinkedIn or through my email : danialharriz@graduate.utm.my / danial.harriz360@gmail.com
 

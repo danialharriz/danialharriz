@@ -2,7 +2,7 @@
 
 #### **Background 🧔**
 
-I am a third-year Computer Science student at Universiti Teknologi Malaysia, majoring in Data Engineering. My passion lies in exploring the limitless potential of technology, with a particular focus on data, machine learning, and analytics.
+I am a Final-Year Computer Science student at Universiti Teknologi Malaysia, majoring in Data Engineering. My passion lies in exploring the limitless potential of technology, with a particular focus on data, machine learning, and analytics.
 
 Throughout my university years, I have been honing my technical and analytical skills while actively engaging in university events, which has equipped me with excellent communication and social skills. These experiences have fueled my ambition to build a career in the tech industry, particularly in Data Science, where I aim to drive data-driven solutions and insights.
 
